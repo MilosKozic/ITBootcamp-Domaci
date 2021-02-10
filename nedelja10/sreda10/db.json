@@ -1,0 +1,51 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Тврд је орах, воћка чудновата",
+      "author": "П.П.Његош"
+    },
+    {
+      "text": "Zivot nam vraca samo ono sto mi drugima dajemo ",
+      "author": "Ivo Andric",
+      "id": 2
+    },
+    {
+      "text": "Voleti nikad nije besmisleno",
+      "author": "Milos Crnjanski",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Pera",
+      "email": "peraperic@pera.com",
+      "password": "asdf1234"
+    },
+    {
+      "username": "Dragan",
+      "email": "dragan@mail.com",
+      "password": "passwoprd",
+      "id": 2
+    },
+    {
+      "username": "milos",
+      "email": "milos@mail.com",
+      "password": "password",
+      "id": 3
+    },
+    {
+      "username": "Ivan",
+      "email": "ivan@mail.com",
+      "password": "mmdaslkmdlkamlkam",
+      "id": 5
+    },
+    {
+      "username": "Mirko",
+      "email": "mirko@mail.com",
+      "password": "mdlkanmlksanmdklsa",
+      "id": 7
+    }
+  ]
+}
